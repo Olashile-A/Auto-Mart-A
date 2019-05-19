@@ -1,0 +1,97 @@
+html {
+  background: url('images/ferrari-wallpaper-1366x768.jpg');
+  background-size: 100% 100%;
+  background-position: center center;
+  background-repeat: none;
+  background-size: cover;
+  font-style: Serif;
+}
+body {
+  font-family: serif;
+  overflow: hidden;
+}
+
+.title {
+  font-size: 50px;
+  color: #8e2020;
+  font-weight: 40px;
+  font-style: Serif;
+  text-align: center;
+}
+
+.container {
+  background-color: rgb(249, 247, 247, 0.6);
+  width: 20%;
+  text-align: center;
+  padding: 80px;
+  margin: 0 50px 200px auto;
+  float: right;
+  overflow: hidden;
+  border-radius: 5px;
+}
+
+h1 {
+  color: rgb(226, 36, 36, 1.0);
+  margin-top: -20px;
+  margin-right: 80%;
+}
+#welcome {
+  color: rgb(226, 36, 36);
+  margin-right: 60%;
+}
+
+form input {
+
+  border: 1px solid rgb(226, 36, 36, 0.4);
+  background-color: rgba(255, 255, 255, 0.2);
+  width: 250px;
+  border-radius: 3px;
+  padding: 10px 15px;
+  margin: 0 auto 10px auto;
+  display: block;
+  font-size: 18px;
+  font-color: red;
+  color: black;
+  transition-duration: 0.0s;
+  font-weight: 300;
+}
+
+form input:hover {
+  background-color: rgba(255, 255, 255, 0.4);
+}
+form input:focus {
+  background-color: white;
+  width: 250px;
+  color: red;
+}
+
+#login-button {
+  background-color: rgb(226, 36, 36);
+  border: 0;
+  padding: 10px 15px;
+  color: #070707;
+  border-radius: 10px;
+  width: 150px;
+  cursor: pointer;
+  font-size: 18px; 
+  transition-duration: 0.0s;
+  margin-bottom: -30px;
+}
+
+#login-button:hover {
+  background-color: white;
+  border: 0.5px solid rgb(226, 36, 36);
+  height: inherit;
+}
+
+a {
+  padding: 20px;
+  color: rgb(226, 36, 36);
+  text-decoration: none;
+  text-transform: capitalize;
+  font-size: 18px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
