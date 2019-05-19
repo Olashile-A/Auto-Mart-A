@@ -4,7 +4,8 @@
   "description": "online marketplace for automobiles",
   "main": "app.js",
   "scripts": {
-    "test": "\\"
+    "test": "\\",
+    "deploy": "gh-pages -d UI"
   },
   "repository": {
     "type": "git",
