@@ -1,0 +1,169 @@
+html {
+	background-color: white;
+	background-position: center;
+	background-size: cover;
+	background-repeat: none;
+}
+body {
+	font-style: serif;
+	color: rgb(226, 36, 36, 0.8);
+}
+
+
+.title {
+	background-color: #ededed;
+  	font-size: 25px;
+  	color: #8e2020;
+  	font-weight: 40px;
+  	font-style: Serif; 	
+  	width: 100%;
+  margin: -10px;
+  margin-right: -10px;
+  padding-top: 10px;
+  padding-right: 13px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+	
+}
+
+h2{
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #4f4f4f;
+}
+
+hr { 
+	margin-top: 90px;
+	border-color: rgb(226, 36, 36, 0.4)
+}
+
+
+
+
+form select {
+	border: 1px solid rgb(226, 36, 36, 0.4);
+	background-color: rgba(255, 255, 255, 0.2);
+	width: 445px;
+	border-radius: 3px;
+	padding: 10px 15px;
+	margin: 0 auto 10px auto;
+	font-size: 18px;
+	color: red;
+	color: rgb(226, 36, 36, 0.4);
+	transition-duration: 0.0s;
+	font-weight: 300;
+	text-transform: capitalize;
+}
+
+form input {
+	text-transform: capitalize;
+  border: 1px solid rgb(226, 36, 36, 0.4);
+  background-color: rgba(255, 255, 255, 0.2);
+  width: 50%;
+  border-radius: 3px;
+  padding: 10px 15px;
+  margin: 0 -100px 10px auto;
+  font-size: 18px;
+ /* font-color: red; */
+  color: rgb(226, 36, 36, 0.4);;
+  transition-duration: 0.0s;
+  font-weight: 300;
+  text-align: left;
+}
+
+input:focus {
+	border: 3px solid rgb(226, 36, 36, 0.5);
+}
+
+textarea {
+	width: 445px;
+	height: 60px;
+	border: 1px solid rgb(226, 36, 36, 0.4);
+  	background-color: rgba(255, 255, 255, 0.2);
+  	border-radius: 3px;
+  	font-weight: 300;
+  	font-size: 18px;
+}
+
+textarea:focus {
+	border: 3px solid rgb(226, 36, 36, 0.5);
+}
+
+
+.form1 {
+
+	background-color: rgb(249, 247, 247, 0.5);
+	margin: 30px 225px 0px 225px;
+	border: 2px solid rgb(226, 36, 36, 0.4);
+	border-radius: 2px;
+}
+
+#info {
+	color: rgb(226, 36, 36, 0.7);
+}
+
+.form2, .form3, .form4, .form5, #post{
+	margin-left: 50px;
+	margin-bottom: 40px;
+
+}
+
+
+
+#line2, #line3, #line4, #line5 {
+	margin-top: 20px;
+}
+
+
+#head2, #head3, #head4{
+	text-align: left;
+}
+
+#price {
+		text-transform: capitalize;
+  border: 1px solid rgb(226, 36, 36, 0.4);
+  background-color: rgba(255, 255, 255, 0.2);
+  width: 50%;
+  border-radius: 3px;
+  padding: 10px 15px;
+  margin: 0 -100px 10px auto;
+  font-size: 18px;
+  color: red;
+  color: black;
+  transition-duration: 0.0s;
+  font-weight: 300;
+  text-align: left;
+}
+
+
+button {
+	background-color: rgb(226, 36, 36);
+  border: 0;
+  padding: 10px 15px;
+  margin-top: 30px;
+  color: #ffffff;
+  border-radius: 5px;
+  height: 70px;
+  width: 150px;
+  cursor: pointer;
+  font-size: 18px; 
+}
+
+
+#foot {
+		background-color: #ededed;
+  	font-size: 25px;
+  	color: #8e2020;
+  	font-weight: 40px;
+  	font-style: Serif; 	
+  	width: 100%;
+  	margin-left: -10px;
+  	margin-right: 10px;
+  	margin-top: 20px;
+  	padding-top: 10px;
+  	padding-right: 10px;
+	padding-bottom: 10px;
+  	padding-left: 50px;
+
+}

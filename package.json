@@ -1,0 +1,26 @@
+{
+  "name": "auto-mart-a",
+  "version": "1.0.0",
+  "description": "online marketplace for automobiles",
+  "main": "app.js",
+  "scripts": {
+    "test": "\\"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olashile-A/Auto-Mart-A.git"
+  },
+  "keywords": [
+    "Auto",
+    "Mart"
+  ],
+  "author": "Olashile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olashile-A/Auto-Mart-A/issues"
+  },
+  "homepage": "https://github.com/Olashile-A/Auto-Mart-A/ui/index.html",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
